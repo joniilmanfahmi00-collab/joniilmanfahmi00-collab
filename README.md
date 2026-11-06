@@ -58,7 +58,7 @@ A minimalist Vue 3 + Vite framework designed to simplify modern web development 
 ### [Preneur.space](https://preneur.space)
 A digital initiative focused on WordPress, WooCommerce consulting, website reliability, and digital growth for small businesses.
 
-### Gath Agent (Unpublish)
+### Gath Agent (Unpublished)
 An experimental AI-powered research agent built with Go and Firebase Genkit, designed for trend discovery, research, analysis, and content proposal generation.
 
 ### MuseSpark MCP
@@ -85,6 +85,30 @@ For me, good engineering is about solving problems, not defending a particular t
 I'm interested in contributing to open-source projects across different ecosystems.
 
 My approach is technology-agnostic: I contribute wherever I can identify meaningful improvements, whether that's fixing bugs, improving developer experience, refining documentation, or making software more reliable.
+
+## Support My Work ❤️
+
+I enjoy building useful tools, contributing to open-source projects, and sharing knowledge with the developer community.
+
+If you find my work helpful or simply want to support my journey as an independent developer and open-source contributor, your support is greatly appreciated.
+
+Every contribution, big or small, helps me dedicate more time to building, maintaining, and improving open-source software.
+
+<p align="left">
+  <a href="https://github.com/sponsors/joniilmanfahmi00-collab">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-Support_my_work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
+  </a>
+  <a href="https://ko-fi.com/YOUR_KOFI_USERNAME">
+    <img src="https://img.shields.io/badge/Ko--fi-Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi" />
+  </a>
+  <a href="https://tipmi.gg/YOUR_TIPMI_USERNAME">
+    <img src="https://img.shields.io/badge/Tipmi.gg-Send_a_tip-635BFF?style=for-the-badge&logo=heart&logoColor=white" alt="Support me on Tipmi.gg" />
+  </a>
+</p>
+
+Thank you for supporting independent development and open-source software! ❤️
+
+---
 
 ## Let's Connect
 
