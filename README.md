@@ -101,7 +101,7 @@ Every contribution, big or small, helps me dedicate more time to building, maint
   <a href="https://ko-fi.com/YOUR_KOFI_USERNAME">
     <img src="https://img.shields.io/badge/Ko--fi-Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi" />
   </a>
-  <a href="https://tipmi.gg/YOUR_TIPMI_USERNAME">
+  <a href="https://tipmi.gg/mang_ilman15">
     <img src="https://img.shields.io/badge/Tipmi.gg-Send_a_tip-635BFF?style=for-the-badge&logo=heart&logoColor=white" alt="Support me on Tipmi.gg" />
   </a>
 </p>
