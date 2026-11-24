@@ -2,7 +2,7 @@
 
 **Software Engineer · Business Engineer · Open-source Contributor**
 
-![Photo of Joni Ilman Pahmi](https://media.joniilmanpahmi.online/Potret%20Reflektif%20di%20Tengah%20Rimbun%20Hijau.png)
+<img width="1254" height="1254" alt="Potret Reflektif di Tengah Rimbun Hijau" src="https://github.com/user-attachments/assets/add32373-8c85-43c7-a2db-10fb2ae0791e" />
 
 I'm a software engineer from Indonesia with a background in law and a passion for building practical, reliable, and maintainable technology.
 
